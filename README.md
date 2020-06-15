@@ -21,10 +21,15 @@ And , What i have done is :
 First of all, configured my AWS profile in local system using Command Prompt. Filled details then Enter.
 
 aws configure --profile ashu
+
 AWS Access Key ID [****************5KMO]:
+
 AWS Secret Access Key [****************VpMS]:
+
 Default region name [ap-south-1]:
+
 Default output format [None]:
+
 
 here i already entered the access and secret keys so it is hidden.
 Second work is to be done is :
